@@ -1,0 +1,19 @@
+{
+  "name": "mqqt-x10",
+  "version": "0.0.1",
+  "description": "MQQT-X10 bridge for home assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattpwalsh/mqqt-x10.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattpwalsh/mqqt-x10/issues"
+  },
+  "homepage": "https://github.com/mattpwalsh/mqqt-x10#readme"
+}
